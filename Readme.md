@@ -142,11 +142,6 @@ cd "research paper"
 python generate_plots.py          # → plots/ (13 static PNGs)
 python interactive_eda.py         # → interactive_plots/ (22 HTML files)
 
-# 6. Generate the research paper (Word docx)
-python generate_paper.py
-python add_sections.py
-```
-
 ---
 
 ## Visualizations
