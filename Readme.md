@@ -2,7 +2,7 @@
 ### A Machine Learning Framework for Groundwater and Surface Water Potability
 
 > **Research Project** — Department of Computer Science & Engineering,Guru Nanak Dev University ,Regional Campus Gurdaspur   
-> **Supervisor:** Dr. Harjot Kaur, Assistant Professor  
+> **Supervisor:** Dr. Harjot Kaur, Assistant Professor
 > **Author:** Sukhmanpreet Kaur
 
 ---
