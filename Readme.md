@@ -177,7 +177,6 @@ Open any `.html` file directly in a browser — no server required.
 | xgboost | ≥ 1.7 | XGBoost classifier/regressor |
 | matplotlib / seaborn | ≥ 3.6 / 0.12 | Static visualizations |
 | plotly | ≥ 5.13 | Interactive HTML plots |
-| python-docx | ≥ 0.8 | Research paper generation |
 | scipy | ≥ 1.10 | Statistical functions |
 
 ---
