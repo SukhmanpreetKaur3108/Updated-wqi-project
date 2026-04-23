@@ -45,8 +45,6 @@ The dataset was curated and provided by the supervising professor as part of the
 │   └── WQI Final Results Table.csv       ← Consolidated ML results
 │
 ├── 📁 research paper/
-│   ├── generate_paper.py                 ← Generates the Word research paper
-│   ├── add_sections.py                   ← Adds SDG + health sections to paper
 │   ├── generate_plots.py                 ← Generates 13 static PNG figures
 │   ├── interactive_eda.py                ← Generates 22 interactive HTML plots
 │   ├── plots/                            ← Static PNG figures (Fig1–Fig13)
